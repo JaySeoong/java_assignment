@@ -9,6 +9,6 @@ public class DriverExample {
 
         Taxi taxi = new Taxi();
         driver.drive(taxi);
-
+        //  04_java(기본) 완료
     }
 }
